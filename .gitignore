@@ -10,6 +10,7 @@ LaserPID-backups/
 *.kicad_pcb-bak
 *~
 _autosave-*
+\#*
 *.tmp
 
 # Netlist files (exported from Eeschema)
