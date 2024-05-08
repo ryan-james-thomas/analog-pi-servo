@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name LaserPID-rescue)(type Legacy)(uri ${KIPRJMOD}/LaserPID-rescue.lib)(options "")(descr ""))
+  (lib (name "LaserPID-rescue")(type "Legacy")(uri "${KIPRJMOD}/LaserPID-rescue.lib")(options "")(descr ""))
+  (lib (name "pi-servo-board")(type "KiCad")(uri "${KIPRJMOD}/pi-servo-board.kicad_sym")(options "")(descr ""))
 )
